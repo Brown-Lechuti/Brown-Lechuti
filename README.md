@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Brown-Lechuti
-- 👀 I’m interested in software development and data science
-- 🌱 I’m currently completing my undergrad in Bsc. In IT @NWU-VTC
-- 💞️ I’m looking to learn more on Python, C#,Java,JavaScript and SQL development 
+- 💡I’m interested in Business Intelligence and Cloud computing 
+- 👨‍🎓 BSc. in IT graduate 
 - 📫 How to reach me: brownlechuti@gmail.com
 
 <!---
