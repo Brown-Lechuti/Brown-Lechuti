@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brown-Lechuti
-- 💡I’m interested in Business Intelligence and Cloud computing 
+- 💡I’m interested in Business Intelligence, Web development and Cloud computing 
 - 👨‍🎓 BSc. in IT graduate 
 - 📫 How to reach me: brownlechuti@gmail.com
 
